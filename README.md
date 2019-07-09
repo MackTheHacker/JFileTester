@@ -1,6 +1,8 @@
 # FileMaster
 A simple GUI program that gets input from a user, stores it in a file, and reads it in real-time. Licensed under GPLv2
 
+<img src="https://github.com/MackTheHacker/JFileTester/blob/master/filemaster3.png">
+
 <i><b> Functionality: </i></b>
 
 In the GUI, there are 3 components.
